@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaacarnault
-- 📫 How to reach me www.isaacarnault.com / @isaacarnault
+- 📫 How to reach me https://isaacarnault.github.io/ @isaacarnault
 
 <!---
 isaacarnault/isaacarnault is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
